@@ -1,0 +1,8 @@
+# ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
+
+
+# ignore paths that contain user-generated content.
+sites/*/files
+sites/*/private
+
